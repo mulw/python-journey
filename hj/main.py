@@ -1,0 +1,10 @@
+print('hi, I am Maundu Mulwa')
+print('o----')
+print(' ||||')
+print('*'*10)
+print('*  '*30)
+print('         *'*20)
+print('*  ' *16)
+print('*'*1)
+print('* '   *  10)
+
